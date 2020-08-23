@@ -1,0 +1,94 @@
+<!--注意:代码模板中的代码将会被复制到任何新创建的文件中，编辑代码模板中的代码，让他帮你自动增加固定代码吧-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <body bgcolor=e5ebff>
+<h1><font color=black>欢迎访问 xx镜像站</font></h1>
+<title>xx虚拟机镜像站</title>
+<script language=JavaScript>
+<!--
+var caution = false
+function setCookie(name, value, expires, path, domain, secure) {
+var curCookie = name + "=" + escape(value) +
+((expires) ? "; expires=" + expires.toGMTString() : "") +
+((path) ? "; path=" + path : "") +
+((domain) ? "; domain=" + domain : "") +
+((secure) ? "; secure" : "")
+if (!caution || (name + "=" + escape(value)).length <= 4000)
+document.cookie = curCookie
+else
+if (confirm("Cookie exceeds 4KB and will be cut!"))
+document.cookie = curCookie
+}
+function getCookie(name) {
+var prefix = name + "="
+var cookieStartIndex = document.cookie.indexOf(prefix)
+if (cookieStartIndex == -1)
+return null
+var cookieEndIndex = document.cookie.indexOf(";", cookieStartIndex + prefix.length)
+if (cookieEndIndex == -1)
+cookieEndIndex = document.cookie.length
+return unescape(document.cookie.substring(cookieStartIndex + prefix.length, cookieEndIndex))
+}
+function deleteCookie(name, path, domain) {
+if (getCookie(name)) {
+document.cookie = name + "=" +
+((path) ? "; path=" + path : "") +
+((domain) ? "; domain=" + domain : "") +
+"; expires=Thu, 01-Jan-70 00:00:01 GMT"
+}
+}
+function fixDate(date) {
+var base = new Date(0)
+var skew = base.getTime()
+if (skew > 0)
+date.setTime(date.getTime() - skew)
+}
+var now = new Date()
+fixDate(now)
+now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000)
+var visits = getCookie("counter")
+if (!visits)
+visits = 1
+else
+visits = parseInt(visits) + 1
+setCookie("counter", visits, now)
+document.write("您是第" + visits + "位访问本站的")
+// -->
+</script>
+ </head>
+ <style type="text/css">
+ 
+p.normal {font-weight: normal}
+ 
+p.thick {font-weight: bold}
+ 
+p.thicker {font-weight: 900}
+ 
+</style>
+ <head>
+ <table width="600" border="1">
+<tr>
+<td colspan="5" style="background-color:#0076e1;">
+ <h2><font color=white>简介</font></h2>
+<small><i><p><font color=white>xx镜像站致力于收集各大系统的硬盘镜像，安装盘以及失传对老软件等</font></p></i></small>
+</head>
+<body>
+<hr>
+<h2><font color=white>公告板</font></h2>
+<small><i><p><font color=white>本站镜像资源正在紧张收集中，欢迎各位加站长QQ：1727364668提供相关镜像</font></p></i></small>
+</tr>
+</td>
+</table>
+</body>
+<body>
+<img src="https://img03.sogoucdn.com/app/a/100520146/3e5218f722f521a646263ac59b401efd" alt="Pulpit rock" width="70" height="70">
+<a href="链接">linux系统镜像以及安装盘</a>
+<p>Linux，全称GNU/Linux，是一套免费使用和自由传播的类UNIX操作系统，是一个基于POSIX和Unix的多用户、多任务、支持多线程和多CPU的操作系统。<p>
+<img src="https://img03.sogoucdn.com/app/a/100520146/051fa5b0b9bcca6861f5f04323b90173" alt="Pulpit rock" width="70" height="70">
+<a href="链接">Windows系统镜像以及安装盘</a>
+<p>Windows操作系统是美国微软公司研发的一套操作系统，它问世于1985年，起初仅仅是Microsoft-DOS模拟环境，后续的系统版本由于微软不断的更新升级，不但易用，也成为了当前应用最广泛的操作系统。<p>
+
+
+
+</html>
