@@ -1,2 +1,1 @@
-
- ![g](https://images.weserv.nl/?url=img.wenhairu.com/images/2020/08/23/wTZET.jpg）
+这是一个自由的虚拟机镜像收集存储网站
