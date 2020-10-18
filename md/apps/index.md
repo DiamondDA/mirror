@@ -1,5 +1,5 @@
 <center><h1>欢迎来到软件库</h1></center>
-<center><table border="1">
+<table border="0">
 <tr>
 <td>row 1, cell 1</td>
 <td>row 1, cell 2</td>
@@ -9,4 +9,3 @@
 <td>row 2, cell 2</td>
 </tr>
 </table>
- </center>
