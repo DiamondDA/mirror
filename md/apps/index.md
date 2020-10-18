@@ -1,8 +1,9 @@
 <center><h1>欢迎来到软件库</h1></center>
 <table border="0">
 <tr>
-<td>row 1, cell 1</td>
+<td>![alt text](image.jpg)</td>
 <td>row 1, cell 2</td>
+<td>测试</td>
 </tr>
 <tr>
 <td>row 2, cell 1</td>
