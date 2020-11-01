@@ -3,5 +3,5 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-title: 钻石虚拟机镜像站
+title: 虚拟机杂货铺
 theme: jekyll-theme-cayman
