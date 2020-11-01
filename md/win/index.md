@@ -16,7 +16,7 @@
 <h1>Windows2000,Me,以及Whister</h1>
 本块资源暂缺
 <h1>Windows XP和Server2003</h1>
-<a href="https://www.lanzoux.com/b00zsl60b">蓝奏云库</a><a href="http://43.226.156.16/yun/#s/6KLaXlrA">十里香云</a>
+<a href="https://www.lanzoux.com/b00zsl60b">蓝奏云库</a>
 <h1>WindowsLonghorn,Vista，7</h1>
 本块资源暂缺
 
