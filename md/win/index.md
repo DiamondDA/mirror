@@ -1,4 +1,4 @@
-<h1>虚拟机杂货铺 Windows 镜像分库</h1>
+<center><h1>欢迎来到 Windows 镜像分库</h1></center>
 <a href="https://diamondda.github.io">点我回主页</a>
 <p>Windows操作系统是美国微软公司研发的一套操作系统，它问世于1985年，起初仅仅是Microsoft-DOS模拟环境，后续的系统版本由于微软不断的更新升级，不但易用，也成为了当前应用最广泛的操作系统。</p>
 <img src="/95.png" alt="Pulpit rock" width="70" height="70">
