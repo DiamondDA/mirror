@@ -5,4 +5,5 @@ relative_links:
   collections: true
 title: 虚拟机杂货铺
 subtitle: 国内首个虚拟机资源下载网站
+description: #站点描述，给搜索引擎看的
 theme: jekyll-theme-cayman
