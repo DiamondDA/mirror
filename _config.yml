@@ -3,7 +3,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-title: ☞虚拟机杂货铺☜
+title: 虚拟机杂货铺-国内首个虚拟机资源基地
 subtitle: 国内首个虚拟机资源收集站点
-description: #站点描述，给搜索引擎看的
+description: 国内首个虚拟机资源基地，是一个非盈利项目，致力于方便国内虚拟机发烧友下载资源
 theme: jekyll-theme-cayman
