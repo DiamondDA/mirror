@@ -14,4 +14,8 @@
 <tr>
 <td>微软office全家桶</td>
 </tr>
+<tr>
+<td>Limbo模拟器（新版5.0）</td>
+<td><a href="https://wwx.lanzoux.com/b00zzveta">蓝奏云</a></td>
+</tr>
 </table>
